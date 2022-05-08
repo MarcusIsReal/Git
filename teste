@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+     <head>
+          <title>
+          	Currículo
+          </title>
+          <meta charset="utf-8">
+     </head>
+
+     <body>
+     	
+          <h1>Marcus Vinicius</h1>
+          <p><strong>Cidade:</strong>Conceição do Coité</p>
+          <p><strong>Telefone:</strong>(75)99232-4376</p>
+          <p><strong>Email:</strong><a href="mailto:mark1733@protonmail.com">mark1733@protonmail.com</a>
+          <hr>
+     <h2>Objetivo</h2>
+     <p>
+          Me tornar programador
+     </p>
+     
+     <h2>
+          Formação:
+     </h2>
+     <p>Nenhuma ainda</p>
+     
+     <h2>
+          Experiência:
+     </h2>
+     <p>
+          Nenhuma ainda
+     </p>
+     <h2>Habilidades:</h2>
+     <p>Nenhuma ainda</p>
+     <h2>Curso que estou fazendo:</h2>
+
+
+
+          <a href="https://programadorbr.com">
+          
+          <img src="https://yt3.ggpht.com/ytc/AKedOLTjhBSNbhAzlz8BvXeDSyCiZhaJwpRqDPeg1DCB9A=s900-c-k-c0x00ffffff-no-rj"
+          alt="ProgramadorBr"height=150
+     </a>
+
+     </body>
+
+
+</html>
